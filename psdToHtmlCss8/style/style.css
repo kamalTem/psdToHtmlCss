@@ -918,6 +918,10 @@ a {
 		margin: 0 auto;
 	}
 
+	.download-app-link--ios {
+    	line-height: 90px;
+	}
+
 	.header_container_navigation {
 		display: none;
 	}
